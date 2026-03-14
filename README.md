@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Shize Gao, but you can call me Tony! </h1>
+<h1 align="center">Hi, I'm Shize Gao, you can call me Tony! </h1>
 
 <p align="center">
   <b>Software Engineering Student @ University of Melbourne</b><br/>
