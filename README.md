@@ -108,9 +108,3 @@ I'm currently open to:
 - **AI Systems / AI Product / MLOps-adjacent opportunities**
 
 📍 Based in **Melbourne, Australia**
-
----
-
-<p align="center">
-  <i>Building real systems > shipping toy projects.</i>
-</p>
