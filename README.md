@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/shize-gao/">LinkedIn</a> •
+  <a href="https://www.linkedin.com/in/shizegao/">LinkedIn</a> •
   <a href="mailto:tonygao022@gmail.com">Email</a>
 </p>
 
