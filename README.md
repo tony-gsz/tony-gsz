@@ -1,5 +1,5 @@
-# Hi, I'm Shize Gao
-
+# Hi, I'm Shize Gao :)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Software Engineering student at the University of Melbourne with hands-on startup experience across **backend systems, cloud infrastructure, and full-stack product workflows**.
 
 Most recently, I worked on **TinyDOOR** at DOOR Global, contributing across backend architecture, Django services, AWS infrastructure, API integration, and end-to-end product delivery for an AI-enabled storytelling platform.
