@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Shize Gao 👋</h1>
+<h1 align="center">Hi, I'm Shize Gao, but you can call me Tony! </h1>
 
 <p align="center">
   <b>Software Engineering Student @ University of Melbourne</b><br/>
@@ -12,7 +12,7 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 I'm a software engineering student at the **University of Melbourne** with hands-on startup experience building **backend systems, cloud infrastructure, and full-stack product workflows**.
 
@@ -28,7 +28,7 @@ I'm especially interested in building systems that sit at the intersection of:
 
 ---
 
-## 🧠 Current Focus
+## Current Focus
 
 - Building stronger foundations in **backend + cloud architecture**
 - Moving from **full-stack product work** toward **AI pipelines / MLOps**
@@ -37,7 +37,7 @@ I'm especially interested in building systems that sit at the intersection of:
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Languages
 `Python` `TypeScript` `JavaScript` `SQL` `Java` `C` `C++`
@@ -53,7 +53,7 @@ I'm especially interested in building systems that sit at the intersection of:
 
 ---
 
-## 📌 Featured Work
+## Featured Work
 
 ### 🔹 TinyDOOR System Architecture *(Sanitized Case Study)*
 A public architecture-focused portfolio repo based on my work on TinyDOOR — an AI-enabled storytelling platform.  
@@ -74,7 +74,7 @@ A systems project combining **embedded development, secure device communication,
 
 ---
 
-## 🎯 What I Want to Build
+## What I Want to Build
 
 I'm most excited by roles and projects involving:
 
@@ -87,7 +87,7 @@ I'm most excited by roles and projects involving:
 
 ---
 
-## 📈 Portfolio Direction
+## Portfolio Direction
 
 Most production work I've contributed to is private, so this GitHub is intentionally focused on:
 
@@ -98,7 +98,7 @@ Most production work I've contributed to is private, so this GitHub is intention
 
 ---
 
-## 🤝 Open To
+## Open To
 
 I'm currently open to:
 
